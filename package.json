@@ -29,8 +29,8 @@
     }
   },
   "contributors": {
-      "name": "laurent LIONET",
-      "email": "laurent.lionet@hotmail.com"
+    "name": "laurent LIONET",
+    "email": "laurent.lionet@hotmail.com"
   },
   "engines": {
     "node": ">=8.0.0"
