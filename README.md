@@ -35,8 +35,7 @@ Usage
 
 Nodes to send and receive simple emails.
 
-Contribution
-------------
+### Contribution
 
 What have been added in the contribution :                                             
 - output payload containing the node status (email sent, email failed, ...) and info from smtp serveur.
