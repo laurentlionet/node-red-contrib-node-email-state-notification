@@ -1,0 +1,45 @@
+{
+  "name": "node-red-contrib-node-email-state-notification",
+  "version": "0.0.1",
+  "description": "Node-RED nodes to send and receive simple emails (added an output payload containing the email state in the email-output node)",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^2.7.7",
+    "nodemailer": "^6.4.6",
+    "poplib": "^0.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-red/node-red-nodes/tree/master/social/email"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node-red",
+    "email",
+    "gmail",
+    "imap",
+    "pop",
+    "state",
+    "notification"
+  ],
+  "node-red": {
+    "nodes": {
+      "email": "email-state-notification.js"
+    }
+  },
+  "author": {
+    "name": "Dave Conway-Jones",
+    "email": "ceejay@vnet.ibm.com",
+    "url": "http://nodered.org"
+  },
+  "contributors": [
+    {
+      "name": "laurent LIONET",
+      "email": "laurent.lionet@hotmail.com"
+    }
+  ],
+
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
