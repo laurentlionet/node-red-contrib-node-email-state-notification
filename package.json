@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/node-red/node-red-nodes/tree/master/social/email"
   },
-  "license": "Apache-2.0",
+  "license": "MIT",
   "keywords": [
     "node-red",
     "email",
